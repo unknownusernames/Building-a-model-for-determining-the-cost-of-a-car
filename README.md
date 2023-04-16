@@ -1,5 +1,5 @@
 # Building a model for determining the cost of a car.
-If you want to switch the language to Russian - use README_RU.md
+*If you want to switch the language to Russian - use README_RU.md*
 ## Project description:
 The service for the sale of used cars is developing an application to attract new customers. In it, you can quickly find out the market value of your car. Based on historical data, it is necessary to build a model to determine the cost of the car
 ## Project objectives:
